@@ -16,7 +16,7 @@ body {
   border-radius: 10px;
 }
 ul {
-  list-style-image: url('resources/bullet.png');
+  list-style-image: url('Resources/bullet.png');
 }
 @keyframes myanimation {
   0% {background-color: #223E75;}
